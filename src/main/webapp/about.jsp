@@ -11,5 +11,8 @@
 <h1>This is about page.</h1>
 <h2>Hello Everyone, How are you doing all !!!</h2>
 
+<a href="index.jsp">Go to home</a><br><br>
+<a href="services.jsp">Go to Services</a>
+
 </body>
 </html>
