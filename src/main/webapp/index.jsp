@@ -5,5 +5,7 @@
 <p>In this app we are learning manual deployment!!</p>
 
 <a href="about.jsp">About Page</a>
+<br><br>
+<a href="services.jsp">Services Page</a>
 </body>
 </html>
